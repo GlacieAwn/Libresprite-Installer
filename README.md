@@ -1,5 +1,5 @@
 # About
-I made this installer based on an older github repo I had made a while ago, as a way for people to install libresprite as a windows isntaller instead of having to download the zip and deal with a bunch of confusing files. 
+I made this installer based on an older github repo I had made a while ago, as a way for people to install libresprite as a windows installer instead of having to download the zip and deal with a bunch of confusing files. 
 
 I will be continuing to update this script each time a new version of libresprite releases
 
